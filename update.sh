@@ -8,7 +8,7 @@ fi
 
 PORT=`docker port $1 | grep 0.0.0.0.* | cut -f2 -d:`
 
-NOW=$(date +"%H-%M_%d-%m_%Y")
+NOW=$(date +"%H-%M_%d_%m_%Y")
 
 docker stop $1
 
