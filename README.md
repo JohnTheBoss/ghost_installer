@@ -54,4 +54,4 @@ Note: Don't use www domain because it contains! The reverse proxy automatically 
 ./update blog.yourdomain.ltd
 ```
 
-Note: Script create backup in .backup/URL_HOUR-MIN_DAY_MONTH_YEAR *Eg.: .backup/blog.yourdomain.ltd_11-53_25_12_2018
+Note: Script create backup in .backup/URL_HOUR-MIN_DAY_MONTH_YEAR *Eg.: .backup/blog.yourdomain.ltd_11-53_25_12_2018*
