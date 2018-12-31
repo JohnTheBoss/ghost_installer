@@ -37,6 +37,7 @@ apt-get update && apt-get install \
 mkdir -p /docker/ghost
 cd /docker/ghost
 git clone https://github.com/JohnTheBoss/ghost_installer.git .
+chmod +x install.sh
 ```
 
 Note: this script root directory is: /docker/ghost
